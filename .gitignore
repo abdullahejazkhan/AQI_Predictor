@@ -1,0 +1,10 @@
+# Ignore large files and environment folders
+venv/
+__pycache__/
+*.zip
+*.csv
+data/*.csv
+models/*.pkl
+*.png
+*.pdf
+*.pkl
